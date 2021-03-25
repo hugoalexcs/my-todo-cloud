@@ -11,7 +11,8 @@ COPY ./package.json ./
 
 USER node
 
-RUN npm update
+#RUN npm update
+RUN npm install
 
 RUN npm ci --only=production
 
