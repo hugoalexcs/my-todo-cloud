@@ -1,3 +1,6 @@
+# My todo cloud app
+[![Build Status](https://travis-ci.com/hugoalexcs/my-todo-cloud.svg?branch=master)](https://travis-ci.com/hugoalexcs/my-todo-cloud)
+
 https://www.npmjs.com/package/recursive-install
 
 # Commands
@@ -27,3 +30,4 @@ https://www.npmjs.com/package/recursive-install
 - docker-compose -f docker-compose.yml -f docker-compose.prod.yml build
 - docker-compose -f docker-compose.yml -f docker-compose.prod.yml push
 - 
+
